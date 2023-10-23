@@ -1,7 +1,10 @@
-*{
-    background-color: blanchedalmond;
+body{
+    background-color: rgb(255, 153, 0);
 }
+
 .altcizgi{
+    height: 100%;
+    width: 50px;
     border-bottom: 1px solid #353232;
     background-color: black;
 }
